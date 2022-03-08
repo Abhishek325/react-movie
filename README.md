@@ -1,2 +1,2 @@
-# react-movie
-Created with CodeSandbox
+# react-movie-browser
+Created with `CodeSandbox` - React UI consuming https://swapi.dev/
